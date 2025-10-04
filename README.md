@@ -1,40 +1,43 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Xeone971+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Salut!+Je+suis+Xeone971+%F0%9F%91%8B;Bienvenue+sur+mon+profil+GitHub!" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Full Stack Developer | Tech Enthusiast | Problem Solver</h3>
+<h3 align="center">🛡️ Développeur Full Stack | Futur Ingénieur en Cybersécurité | Passionné de Sécurité Informatique</h3>
 
 <p align="center">
-  <a href="https://github.com/Xeone971"><img src="https://img.shields.io/github/followers/Xeone971?label=Followers&style=social" alt="GitHub Badge"></a>
-  <a href="https://github.com/Xeone971"><img src="https://komarev.com/ghpvc/?username=Xeone971&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
+  <a href="https://github.com/Xeone971?tab=followers"><img src="https://img.shields.io/github/followers/Xeone971?label=Abonnés&style=social" alt="GitHub Badge"></a>
+  <a href="https://github.com/Xeone971"><img src="https://komarev.com/ghpvc/?username=Xeone971&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Profile views" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 À Propos de Moi
 
-I'm a passionate developer who loves building innovative solutions and learning new technologies. I believe in writing clean, maintainable code and continuously improving my skills.
+Je suis un développeur passionné actuellement en poste comme développeur fullstack, avec une ambition forte de devenir ingénieur en cybersécurité. Je construis des solutions innovantes tout en développant mes compétences en sécurité informatique.
 
-- 🔭 I'm currently working on exciting projects that challenge my abilities
-- 🌱 I'm continuously learning new technologies and best practices
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about web development, programming, and technology
-- 📫 How to reach me: Through GitHub or my social links below
-- ⚡ Fun fact: I turn coffee into code ☕
+- 🔭 Je travaille actuellement sur des projets passionnants qui développent mes compétences en sécurité
+- 🌱 J'apprends continuellement les nouvelles technologies, particulièrement en cybersécurité
+- 🎯 Mon objectif : devenir ingénieur en cybersécurité
+- 🛡️ Domaines d'intérêt : pentesting, sécurité des applications web, cryptographie
+- 👯 Je cherche à collaborer sur des projets open source liés à la sécurité
+- 💬 Demandez-moi des conseils sur le développement web, la programmation et la cybersécurité
+- 📫 Comment me contacter : Via GitHub ou mes liens sociaux ci-dessous
+- ⚡ Fun fact : Je transforme le café en code sécurisé ☕🔒
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Outils
 
 <div align="center">
 
-### Languages
+### Langages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -49,13 +52,21 @@ I'm a passionate developer who loves building innovative solutions and learning 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-### Database
+### Base de Données
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### DevOps & Tools
+### Cybersécurité
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+
+### DevOps & Outils
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -67,7 +78,7 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Statistiques GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xeone971&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
@@ -84,7 +95,7 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophées GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Xeone971&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
@@ -92,7 +103,7 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Projets Mis en Avant
 
 <div align="center">
 
@@ -104,7 +115,7 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 ---
 
-## 📫 Connect With Me
+## 📫 Me Contacter
 
 <div align="center">
   
@@ -118,7 +129,7 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 ---
 
-## 💡 Quote of the Day
+## 💡 Citation du Jour
 
 <div align="center">
   
@@ -130,7 +141,7 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 <div align="center">
   
-### Show some ❤️ by starring some of the repositories!
+### Montrez votre soutien ❤️ en ajoutant une étoile aux dépôts !
 
 ![snake gif](https://github.com/Xeone971/Xeone971/blob/output/github-contribution-grid-snake.svg)
 

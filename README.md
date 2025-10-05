@@ -22,7 +22,7 @@ Je suis un développeur passionné actuellement en poste comme développeur full
 - 👯 Je cherche à collaborer sur des projets open source liés à la sécurité
 - 💬 Demandez-moi des conseils sur le développement web, la programmation et la cybersécurité
 - 📫 Comment me contacter : Via GitHub ou mes liens sociaux ci-dessous
-- ⚡ Fun fact : Je transforme le café en code sécurisé ☕🔒
+- ⚡ Fun fact : Je transforme le thé en code sécurisé 🍵🔒
 
 ---
 

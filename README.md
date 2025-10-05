@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Salut!+Je+suis+Xeone971+%F0%9F%91%8B;Bienvenue+sur+mon+profil+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Salut!+Je+suis+Lucca+%F0%9F%91%8B;Bienvenue+sur+mon+profil+GitHub!" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🛡️ Développeur Full Stack | Futur Ingénieur en Cybersécurité | Passionné de Sécurité Informatique</h3>
@@ -13,17 +13,16 @@
 
 ## 👨‍💻 À Propos de Moi
 
-Je suis un développeur passionné actuellement en poste comme développeur fullstack, avec une ambition forte de devenir ingénieur en cybersécurité. Je construis des solutions innovantes tout en développant mes compétences en sécurité informatique.
+Je suis un alternant en ingénierie informatique, passionné par le développement et la cybersécurité. J’aime concevoir des solutions innovantes tout en renforçant mes compétences techniques ainsi qu'en sécurité des systèmes. Je poursuis mon objectif de devenir ingénieur en cybersécurité.
 
-- 🔭 Je travaille actuellement sur des projets passionnants qui développent mes compétences en sécurité
-- 🌱 J'apprends continuellement les nouvelles technologies, particulièrement en cybersécurité
-- 🎯 Mon objectif : devenir ingénieur en cybersécurité
-- 🛡️ Domaines d'intérêt : pentesting, sécurité des applications web, cryptographie
-- 👯 Je cherche à collaborer sur des projets open source liés à la sécurité
-- 💬 Demandez-moi des conseils sur le développement web, la programmation et la cybersécurité
-- 📫 Comment me contacter : Via GitHub ou mes liens sociaux ci-dessous
-- ⚡ Fun fact : Je transforme le thé en code sécurisé 🍵🔒
-
+- 🔭 Je travaille actuellement sur des projets passionnants qui me permettent de renforcer mes compétences en sécurité informatique.
+- 🌱 Toujours à l’affût des dernières technologies, notamment dans le domaine de la cybersécurité.
+- 🎯 Objectif : devenir ingénieur en cybersécurité.
+- 🛡️ Domaines d’intérêt : pentesting, sécurité des applications web, cryptographie.
+- 👯 Je recherche des collaborations sur des projets open source liés à la sécurité, ainsi que des CTF en équipe.
+- 💬 N’hésitez pas à me contacter pour échanger sur le développement web, la programmation ou la cybersécurité.
+- 📫 Contact : via GitHub ou mes liens sociaux ci-dessous.
+- ⚡ Fun fact : je transforme le thé en code sécurisé 🍵🔒
 ---
 
 ## 🛠️ Technologies & Outils

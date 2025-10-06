@@ -5,7 +5,7 @@
 <h3 align="center">🛡️ Développeur Full Stack | Futur Ingénieur en Cybersécurité | Passionné de Sécurité Informatique</h3>
 
 <p align="center">
-  <a href="https://github.com/Xeone971?tab=followers"><img src="https://img.shields.io/github/followers/Xeone971?label=Abonnés&style=social" alt="GitHub Badge"></a>
+  <a href="https://github.com/Xeone971?tab=followers"><img src="https://img.shields.io/github/followers/Xeone971?label=Abonnes&style=social" alt="GitHub followers"></a>
   <a href="https://github.com/Xeone971"><img src="https://komarev.com/ghpvc/?username=Xeone971&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Profile views" /></a>
 </p>
 

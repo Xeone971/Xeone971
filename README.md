@@ -140,7 +140,7 @@ Je suis un alternant en ingénierie informatique, passionné par le développeme
   
 ### Montrez votre soutien ❤️ en ajoutant une étoile aux dépôts !
 
-![snake gif](https://raw.githubusercontent.com/Xeone971/Xeone971/output/github-contribution-grid-snake.svg)
+[![snake gif](https://raw.githubusercontent.com/Xeone971/Xeone971/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 </div>
 
